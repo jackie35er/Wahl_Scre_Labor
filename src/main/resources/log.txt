@@ -1,0 +1,14 @@
+001 >np
+     0 / 0   Dominik Hofmann
+     0 / 0   Kilian Prager
+     2 / 1   Niklas Hochstöger
+     1 / 0   Paul Pfiel
+     0 / 0   Raid Alarkhanov
+-----------------------------------------------------------
+002 >rd
+     1 / 0   Dominik Hofmann
+     0 / 0   Kilian Prager
+     2 / 1   Niklas Hochstöger
+     1 / 0   Paul Pfiel
+     2 / 1   Raid Alarkhanov
+-----------------------------------------------------------
